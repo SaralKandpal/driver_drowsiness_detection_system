@@ -1,6 +1,6 @@
 # driver_drowsiness_detection_system
 
-This detection system can detect whether a driver is drowsy and feeling sleepy while driving a vehicle, or not. The objective of this python project is to build a drowsiness detection system that can detect that a person’s eyes are closed for a few seconds. This system will alert the driver when drowsiness is detected.
+This facial recognition and detection system can detect whether a driver is drowsy and feeling sleepy while driving a vehicle, or not. The objective of this python project is to build a drowsiness detection system that can detect that a person’s eyes are closed for a few seconds. This system will alert the driver when drowsiness is detected.
 
 In this Python project, we've used OpenCV for gathering the images from webcam and feed them into a Deep Learning model which will classify whether the person’s eyes are ‘Open’ or ‘Closed’. The approach for making this project is as follows :
 
